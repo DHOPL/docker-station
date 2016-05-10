@@ -3,4 +3,4 @@ MAINTAINER adolphlwq nalan3015@126.com
 
 RUN apt-get -y install wget && \
 	cd /root && \
-	wget https://d1opms6zj7jotq.cloudfront.net/idea/ideaIC-2016.1.1.tar.gz
+	wget https://bitbucket.org/rhiokim/haroopad-download/downloads/Haroopad-v0.13.1-win-x64.msi

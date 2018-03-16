@@ -11,4 +11,4 @@ WORKDIR /station
 #     wget http://algs4.cs.princeton.edu/linux/findbugs.xml && \
 #     wget http://algs4.cs.princeton.edu/linux/findbugs-algs4 && \
 #     wget http://algs4.cs.princeton.edu/linux/checkstyle-algs4.xml
-RUN curl -Lo Docker.dmg https://download.docker.com/mac/stable/Docker.dmg
+RUN curl -Lo Docker.dmg https://download.docker.com/mac/edge/Docker.dmg
